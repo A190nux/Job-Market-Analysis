@@ -1,2 +1,3 @@
 # Job-Market-Analysis
-This project analysis the current job market in Egypt
+This project analyzes the current job market in Egypt
+
